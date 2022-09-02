@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>text mining on B. Zhan</title>
+    <link>http://example.org/tags/text-mining/</link>
+    <description>Recent content in text mining on B. Zhan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/text-mining/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The influence of multi-factors on green investments</title>
+      <link>http://example.org/post/2021/10/01/the-influence-of-multi-factors-on-green-investments/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/2021/10/01/the-influence-of-multi-factors-on-green-investments/</guid>
+      <description>This is the first english blog, perhaps I am going to use it to record some skills.
+let&amp;rsquo;s try
+$a = b$</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,7 +2,7 @@
 title: Curriculum Vitae
 ---
 
-# Baoqiang Zhan
+# Baoqiang Zhan [^note1]
 
 <center>School of Economics and Management, Harbin Institute of Technology</center>
 
@@ -15,9 +15,9 @@ Email:
 
 |                        |                                                               |
 | ----------------------:|:------------------------------------------------------------- |
-| **Research Interests** | FinTech, Marketing-finance Interface, Causal Inference        |
-| **Research Methods**   | Econometrics, Machine Learning, Deep Learning                 |
-| **Skills**             | Data crawling, Big data analysis, Natural Language Processing |
+| **Research Interests** | FinTech, Marketing-finance Interface, Business Analytics      |
+| **Research Methods**   | Econometrics, Social Networks, Machine Learning               |
+| **Skills**             | Data Crawling, Big Data Analysis, Natural Language Processing |
 | **Programming**        | Python, Stata, MatLab, R, SPSS                                |
 | **Language**           | IELTS: 6.5 (Good)                                             |
 
@@ -96,3 +96,7 @@ Email:
 ## Honors & Awards
 
 - **Dec. 2019**, National Scholarship for Postgraduates, Ministry of Education of China
+
+
+
+[^note1]: Updated at Sept. 2022

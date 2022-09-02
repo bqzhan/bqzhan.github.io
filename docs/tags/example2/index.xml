@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Example2 on B. Zhan</title>
+    <link>http://example.org/tags/example2/</link>
+    <description>Recent content in Example2 on B. Zhan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/example2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Life-time value prediction</title>
+      <link>http://example.org/post/2022/08/07/life-time-value-prediction/</link>
+      <pubDate>Sun, 07 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/2022/08/07/life-time-value-prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The influence of complaints</title>
+      <link>http://example.org/post/2022/06/15/the-influence-of-complaints/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/2022/06/15/the-influence-of-complaints/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social media and finance</title>
+      <link>http://example.org/post/2022/03/02/social-media-and-finance/</link>
+      <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/2022/03/02/social-media-and-finance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fraud detection</title>
+      <link>http://example.org/post/2022/01/02/fraud-detection/</link>
+      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/2022/01/02/fraud-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical arbitrage</title>
+      <link>http://example.org/post/2021/12/01/statistical-arbitrage/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/2021/12/01/statistical-arbitrage/</guid>
+      <description>This is the second blog.</description>
+    </item>
+    
+  </channel>
+</rss>
