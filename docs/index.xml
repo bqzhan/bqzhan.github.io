@@ -5,80 +5,14 @@
     <link>http://example.org/</link>
     <description>Recent content in Home on B. Zhan</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 07 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Life-time value prediction</title>
-      <link>http://example.org/post/2022/08/07/life-time-value-prediction/</link>
-      <pubDate>Sun, 07 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/post/2022/08/07/life-time-value-prediction/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The influence of complaints</title>
-      <link>http://example.org/post/2022/06/15/the-influence-of-complaints/</link>
-      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/post/2022/06/15/the-influence-of-complaints/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Social media and finance</title>
-      <link>http://example.org/post/2022/03/02/social-media-and-finance/</link>
-      <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/post/2022/03/02/social-media-and-finance/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fraud detection</title>
-      <link>http://example.org/post/2022/01/02/fraud-detection/</link>
-      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/post/2022/01/02/fraud-detection/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Statistical arbitrage</title>
-      <link>http://example.org/post/2021/12/01/statistical-arbitrage/</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/post/2021/12/01/statistical-arbitrage/</guid>
-      <description>This is the second blog.</description>
-    </item>
-    
-    <item>
-      <title>The influence of multi-factors on green investments</title>
-      <link>http://example.org/post/2021/10/01/the-influence-of-multi-factors-on-green-investments/</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/post/2021/10/01/the-influence-of-multi-factors-on-green-investments/</guid>
-      <description>This is the first english blog, perhaps I am going to use it to record some skills.
-let&amp;rsquo;s try
-$a = b$</description>
-    </item>
-    
-    <item>
-      <title>Chinese Blogs</title>
-      <link>http://example.org/note/2021/09/01/chinese-blogs/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/note/2021/09/01/chinese-blogs/</guid>
-      <description>Well, I have kept on writing blogs since from my post-graduate. It has been nearly for 5 years. In the past days, I was used to write Chinese blogs, which are more about the notes of online courses. Yeah, I always engoy taking online courses in Coursera, which has taught me a lot. I feel so grateful for that. For those what I learned and what I thought, I would try to take some notes to help me better understand them.</description>
-    </item>
-    
+    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Curriculum Vitae</title>
       <link>http://example.org/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/about/</guid>
-      <description>Baoqiang Zhan 1 School of Economics and Management, Harbin Institute of Technology Email: 21b910010@stu.hit.edu.cn Competences &amp;amp; Languages Research Interests FinTech, Marketing-finance Interface, Business Analytics Research Methods Econometrics, Social Networks, Machine Learning Skills Data Crawling, Big Data Analysis, Natural Language Processing Programming Python, Stata, MatLab, R, SPSS Language IELTS: 6.5 (Good) Educational Background Sept. 2021 ~ Present, Ph.D. Candidate (Supervisor: Prof. Yongli Li)
+      <description>Baoqiang Zhan 1 School of Economics and Management Harbin Institute of Technology Email: 21b910010@stu.hit.edu.cn Competences &amp;amp; Languages Research Interests FinTech, Marketing-finance Interface, Business Analytics Research Methods Econometrics, Social Networks, Machine Learning Skills Data Crawling, Big Data Analysis, Natural Language Processing Programming Python, Stata, MatLab, R, SPSS Language IELTS: 6.5 (Good) Educational Background Sept. 2021 ~ Present, Ph.D. Candidate (Supervisor: Prof. Yongli Li)
 School of Economics and Management, Harbin Institute of Technology</description>
     </item>
     

@@ -20,9 +20,21 @@ menu:
     - name: "Vitae"
       url: "/about/"
       weight: 2
+    - name: "Posts"
+      url: "/post/"
+      weight: 3
+    - name: "中文"
+      url: "/note/"
+      weight: 4
+    - name: "Categories"
+      url: "/categories/"
+      weight: 5
+    - name: "Tags"
+      url: "/tags/"
+      weight: 6
 
 params:
-  description: "A Ph.D. candidate in management science "
+  description: "A Ph.D. candidate from HIT. "
   footer: "&copy; [Baoqiang Zhan](https://bqzhan.github.io/) 2022 | [Github](https://github.com/bqzhan)"
   highlightjsCDN: "//cdn.bootcss.com"
   highlightjsLang: ["r", "yaml", "tex"]

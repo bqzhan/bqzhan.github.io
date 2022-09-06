@@ -75,25 +75,25 @@ Email:
 
 ### Published paper
 
-[1] **Zhan B**, Zhang S, Du H S, et al. [Exploring statistical arbitrage opportunities using machine learning strategy](https://doi.org/10.1007/s10614-021-10169-8) [J]. *Computational Economics*, 2021: 1-22.
+[1] **Zhan B**, Zhang S, Du H S, et al. [Exploring statistical arbitrage opportunities using machine learning strategy](https://bqzhan.github.io/post/2021/12/01/statistical-arbitrage/) [J]. *Computational Economics*, 2021: 1-22.
 
-[2] Du H S, **Zhan B**, Xu J, et al. [The influencing mechanism of multi-factors on green investments: A hybrid analysis](https://doi.org/10.1016/j.jclepro.2019.117977) [J]. *Journal of Cleaner Production*, 2019, 239:117977.
+[2] Du H S, **Zhan B**, Xu J, et al. [The influencing mechanism of multi-factors on green investments: A hybrid analysis](https://bqzhan.github.io/post/2021/10/01/the-influence-of-multi-factors-on-green-investments/) [J]. *Journal of Cleaner Production*, 2019, 239:117977.
 
 ### Conference paper
 
 [1] **Zhan B**, Chen K. Eye in the sky – monitoring financial fraud using satellite data [C]. *International Conference on Smart Finance 2021*, Shenzhen, China, 2021.
 
-[2] **Zhan B**, Du H S, Xu J. A bibliometric analysis of social media research in finance [C]. *ASIS&T Asia-Pacific Regional Conference 2019*, Phnom Penh, Kingdom of Cambodia, 2019.
+[2] **Zhan B**, Du H S, Xu J. [A bibliometric analysis of social media research in finance](https://bqzhan.github.io/post/2022/03/02/social-media-and-finance/) [C]. *ASIS&T Asia-Pacific Regional Conference 2019*, Phnom Penh, Kingdom of Cambodia, 2019.
 
 ### Working paper
 
-[1] **Zhan B**, Li Y, Wei C, et al. Who is Wary of Idiosyncratic Risk? The Influence of Customer Complaint Channel on Idiosyncratic Risk.
+[1] **Zhan B**, Li Y, Wei C, et al. [Who is Wary of Idiosyncratic Risk? The Influence of Customer Complaint Channel on Idiosyncratic Risk](https://bqzhan.github.io/post/2022/06/15/the-influence-of-complaints/).
 
-[2] **Zhan B**, Li Y, Liu C, et al. An Integration Method for Predicting Customer Life-time Value in the Ride-hailing Industry.
+[2] **Zhan B**, Li Y, Liu C, et al. [An Integration Method for Predicting Customer Life-time Value in the Ride-hailing Industry](https://bqzhan.github.io/post/2022/08/07/life-time-value-prediction/).
 
-[3] Li Y, **Zhan B**. The power of stock analyst report: excess return, time value and investment strategy.
+[3] Li Y, **Zhan B**. [The power of stock analyst report: excess return, time value and investment strategy]().
 
-
+[4] Liu C, Li Y, **Zhan B**, et al. [A methods in dealing with confounded treatment]()
 
 ## Honors & Awards
 
