@@ -12,7 +12,7 @@ Baoqiang Zhan is currently a second-year Ph.D. student of [School of Economics a
 
 ### Recent works
 
-- **2022/09/01**  <u>The Influence of Customer Complaint Channel on Idiosyncratic Risk</u>: Customer relationship management is a vital issues for firm operation. When customers make complaints, what would happen to the firm-idiosyncratic risk? This study conducts an empirical analysis to explore the influence of complaints from channel perspective using over 5 millions textual complaints from [HeiMao](https://tousu.sina.com.cn/) platform. The results provide theoretical contributions and practical implications for complaint handling and firm management.
+- **2022/09/01**  <u>The Influence of Customer Complaint Channel on Idiosyncratic Risk</u>: Customer relationship management is a vital issues for firm operation. When customers make complaints, what would happen to the firm-idiosyncratic risk? This study conducts an empirical analysis to explore the influence of complaints from channel perspective using over 5 million textual complaints from [HeiMao](https://tousu.sina.com.cn/) platform. The results provide theoretical contributions and practical implications for complaint handling and firm management.
 
 - **2022/08/01** <u>Doubly Robust Learning for Causal Inferencing</u>: Firms have increasingly advocated coupons and discounts to attract customers. Are such strategies really efficacious? This study adopts causal inferencing methods to empirically evaluate the sales uplifts brought by promotion strategies using large-scale industrial data from ride-hailing platforms in China. This study contributes to causal inferencing techniques for conquering confounding treatments problems and providing more accurate estimation of treatment effects.
 
