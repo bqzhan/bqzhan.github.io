@@ -16,14 +16,12 @@ Email:
 
 |                        |                                                                        |
 | ----------------------:|:---------------------------------------------------------------------- |
-| **Research Interests** | Consumer behaviors, Marketing-finance Interface, Business Analytics    |
-| **Research Methods**   | Econometrics, Models, Social Networks, Machine Learning                |
+| **Research Interests** | Consumer behaviors, Information Systems, Business Analytics            |
+| **Research Methods**   | Econometrics, Social Networks, Machine Learning, Deep Learning         |
 | **Skills**             | Data Crawling, Big Data Analysis, Text Mining                          |
 | **Programming**        | Python, Stata, MatLab, R, SPSS                                         |
 | **Tools**              | Scikit-learn, PyTorch, TensorFlow                                      |
 | **Language**           | IELTS: 6.5 (Writing: 6.0, Listening: 7.0, Speaking: 5.5, Reading: 7.5) |
-
-
 
 ## Educational Background
 
@@ -55,8 +53,6 @@ Email:
 
 &emsp;
 
-
-
 - **Jul. 2018 ~ Sept. 2018**, **Research Assistant**, Chinese Academy of Sciences
 
 | Research          | **Influence of Environmental Policy** (Supervised by Prof. Xiaoguang Yang)                                                                                                                                                                                                                                                                                                                                                              |
@@ -64,14 +60,10 @@ Email:
 | **Contributions** | Data collection, research design, experiments and analysis, as well as writing (original draft)                                                                                                                                                                                                                                                                                                                                         |
 | **Content**       | This study focuses on the development of green investments in China. Specifically, we concern the influence of environmental policy and explore how the implement of environment policy leads the development of green investments. Using spatial econometric analysis along with text mining, we found that environmental policy plays different roles (direct effects and spillover effects) on different kinds of green investments. |
 
-
-
 | Research          | **Statistical Arbitrage Exploration** (Supervised by Prof. Xiaoguang Yang)                                                                                                                                                                                                                                                                                                                                                              |
 |:-----------------:| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Contributions** | Data collection, algorithm design and writing (original draft)                                                                                                                                                                                                                                                                                                                                                                          |
 | **Content**       | This study examines whether statistical arbitrage opportunities could be detected in advance. We propose a machine learning strategy to explore statistical arbitrage opportunites. Comparing traditional co-integration models, our methods signigicantly improve the performance in both prediction accuracy and transaction profits when conducting empirical analysis with price series data obtained from Chinese security market. |
-
-
 
 ## Projects & Presentations
 
